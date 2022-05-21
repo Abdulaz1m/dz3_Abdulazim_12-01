@@ -1,0 +1,11 @@
+.news {
+    background-color: orange;
+    padding: 10px 0;
+}
+.news__h {
+    margin-bottom: 20px !important;
+}
+.news__p {
+    margin-bottom: 80px !important;
+    text-align: justify;
+}
